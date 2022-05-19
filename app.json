@@ -27,7 +27,15 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "config": {
+        "apiKey": "AIzaSyAjhmhHmDFSUiRkzCVFO5zl-9PblrwkVrg",
+        "authDomain": "tiktok-clone-32bdb.firebaseapp.com",
+        "projectId": "tiktok-clone-32bdb",
+        "storageBucket": "tiktok-clone-32bdb.appspot.com",
+        "messagingSenderId": "374358622130",
+        "appId": "1:374358622130:web:28f3eb498854b85b802eab"
+      }
     }
   }
 }
